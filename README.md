@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-Estudante focado em Gestão Pública e Ciência da Computação, apaixonado por programação e inteligência artificial.
+Estudante focado em Gestão Pública , Ciência da Computação,  programação e inteligência artificial.
 
 ## Contato
 
